@@ -15,6 +15,7 @@ markers:
   - {type: substitution, offset: 1, original: 眞, replacement: 真, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19545}}
   - {type: variant, offset: 3, length: 10, content: 外篇卷上中下同卷甚八, WYG: ''}
   - {type: punctuation, offset: 7, content: (, id: KR5d0052_krp_001-bkkpn1}
+  - {type: voice, offset: 7, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 9, content: /, id: KR5d0052_krp_001-bkkpn2}
   - {type: punctuation, offset: 11, content: ), id: KR5d0052_krp_001-bkkpn3}
   body:
@@ -1584,4 +1585,4 @@ markers:
 
       ', id: KR5d0052_krp_001-bkkkrnewl170}
   back: []
-hash: sha256:484adb3a2325e379993a5b2419e1d6dc4572e83498457cb829c256b8dff5bc1e
+hash: sha256:44d6c8a917c0121eddd7ab7142e676f32242fce980f57fbc0bef9b1ec6d55785
